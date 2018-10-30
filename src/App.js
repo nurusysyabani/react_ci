@@ -23,7 +23,7 @@ class App extends Component {
             <div className="right-half">
               <p className="rotate-text">Singer and Dancer</p>
               <article>
-                <h1>Kim Jisoo</h1>
+                <h1>My Name Kim Jisoo</h1>
                 <h3>Blackpink</h3>
                 <div class="simple-subscription-form">
                   <form>
